@@ -14,7 +14,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "if-env": "^1.0.4"
+    "if-env": "^1.0.4",
+    "mongoose": "^5.12.7",
+    "redux": "^4.1.0",
+    "stripe": "^8.147.0"
   },
   "devDependencies": {
     "concurrently": "^5.1.0"
