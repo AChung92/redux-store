@@ -7,8 +7,8 @@ Refractor e-commerce platform using global state React's Contect API to Redux.
 * Screenshots
 
 ## Technologies
-* MongoDB
-* Express.js
+* Redux
+* EMongoDB
 * React.js
 * Node.js
 
@@ -18,6 +18,6 @@ https://book-search-9.herokuapp.com/
 
 ## Screenshots
 
-![screenshot](client/src/assets/img/saved_books.png))
-![screenshot](client/src/assets/img/search_books.png))
-![screenshot](client/src/assets/img/signup.png))
+![screenshot](client/public//images/addcart.gif))
+![screenshot](client/public//images/loginpayment.gif))
+
