@@ -14,7 +14,7 @@ Refractor e-commerce platform using global state React's Contect API to Redux.
 
 ## Deployed App
 
-https://book-search-9.herokuapp.com/
+https://redux-store-9.herokuapp.com/
 
 ## Screenshots
 
