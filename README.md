@@ -19,5 +19,5 @@ https://book-search-9.herokuapp.com/
 ## Screenshots
 
 ![screenshot](client/public//images/addcart.gif))
-![screenshot](client/public//images/loginpayment.gif))
+![screenshot](client/public//images/login-payment.gif))
 

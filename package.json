@@ -16,6 +16,7 @@
   "dependencies": {
     "if-env": "^1.0.4",
     "mongoose": "^5.12.7",
+    "react": "^17.0.2",
     "redux": "^4.1.0",
     "stripe": "^8.147.0"
   },
